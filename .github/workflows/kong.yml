@@ -1,4 +1,4 @@
-name: Kong Stack 
+name: Kong Stack  
 
 on:
  workflow_dispatch:
